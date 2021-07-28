@@ -1,285 +1,387 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="KIDS",TECNOTV SMARTV
-http://tecnotv.club/23ju/smartv.php?c=discoverychannel
-#EXTINF:0 tvg-id="ext" group-title="KIDS",23/7/2021
-http://tecnotv.club/23ju/smartv.php?c=discoverychannel
-#EXTINF:0 tvg-id="ext" group-title="KIDS",Telegram: @Tecnotv
-http://tecnotv.club/23ju/smartv.php?c=discoverychannel
 
 #EXTINF:0 tvg-id="ext" group-title="INFANTIL",Simpson
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Cartoon Network
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=cartoonnetwork
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Discovery Kids
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=discoverykids
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Disney Junior
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=disneyjunior
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Disney XD
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=disneyxd
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Disney Channel
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=disneychannel
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Nick
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=nick
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Nick Toons
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=nicktoons
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Baby First
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=babyfirst
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Tooncast
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=tooncast
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Boomerang
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=boomerang
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",boing en vivo
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=boing
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",clantv en vivo
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=clantv
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",paka paka en vivo
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=pakapaka
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",kidstv en vivo
-http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=kidstv
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL" user-agent="tuplayer",Bitme
+http://tecnotv.club/23ju/android2.php?c=354
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL" user-agent="tuplayer",MX | Locomotion
+http://tecnotv.club/23ju/android2.php?c=355
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="INFANTIL" user-agent="tuplayer",MX | Tooncast
+http://tecnotv.club/23ju/android2.php?c=107
+#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="INFANTIL" user-agent="tuplayer",MX | Cartoon Network
+http://tecnotv.club/23ju/android2.php?c=18
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="INFANTIL" user-agent="tuplayer",MX | Discovery Kids
+http://tecnotv.club/23ju/android2.php?c=38
+#EXTINF:0 tvg-id="Disney.uk" group-title="INFANTIL" user-agent="tuplayer",MX | Disney
+http://tecnotv.club/23ju/android2.php?c=43
+#EXTINF:0 tvg-id="DisneyJr.mx" group-title="INFANTIL" user-agent="tuplayer",MX | Disney JR
+http://tecnotv.club/23ju/android2.php?c=44
+#EXTINF:0 tvg-id="DisneyXD.mx" group-title="INFANTIL" user-agent="tuplayer",MX | Disney XD
+http://tecnotv.club/23ju/android2.php?c=45
+#EXTINF:0 tvg-id="Nickelodeon.mx" group-title="INFANTIL" user-agent="tuplayer",MX | Nickelodeon
+http://tecnotv.club/23ju/android2.php?c=121
+#EXTINF:0 tvg-id="NickJr.mx" group-title="INFANTIL" user-agent="tuplayer",MX | Nick Jr
+http://tecnotv.club/23ju/android2.php?c=122
+#EXTINF:0 tvg-id="Nick2.ar" group-title="INFANTIL" user-agent="tuplayer",MX | Nick 2
+http://tecnotv.club/23ju/android2.php?c=123
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL" user-agent="tuplayer",MX | NatGeo Kids Mex
+http://tecnotv.club/23ju/android2.php?c=126
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL" user-agent="tuplayer",MX | NatGeo Kids
+http://tecnotv.club/23ju/android2.php?c=127
 
-#EXTINF:0 tvg-id="WOWTV.us" group-title="ENTRETENIMIENTO",Wow TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="Telefe.ar" group-title="ENTRETENIMIENTO",TELEFE
-http://tecnotv.club/23ju/smartv.php?c=telefe
-#EXTINF:0 tvg-id="ElTrece.mx" group-title="ENTRETENIMIENTO",EL TRECE
-http://tecnotv.club/23ju/smartv.php?c=eltrece
-#EXTINF:0 tvg-id="America2.ar" group-title="ENTRETENIMIENTO",AMERICA TV
-http://tecnotv.club/23ju/smartv.php?c=america2
-#EXTINF:0 tvg-id="TvPublica.ar" group-title="ENTRETENIMIENTO",TV PUBLICA
-http://tecnotv.club/23ju/smartv.php?c=tvpublica
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",TN ARGENTINA
-http://tecnotv.club/23ju/smartv.php?c=tn
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",C5N ARGENTINA
-http://tecnotv.club/23ju/smartv.php?c=c5n
-#EXTINF:0 tvg-id="Canal9.ar" group-title="ENTRETENIMIENTO",EL NUEVE
-http://tecnotv.club/23ju/smartv.php?c=canal9ar
-#EXTINF:0 tvg-id="26TV.ar" group-title="ENTRETENIMIENTO",CANAL 26
-http://tecnotv.club/23ju/smartv.php?c=canal26ar
-#EXTINF:0 tvg-id="CronicaTV.ar" group-title="ENTRETENIMIENTO",CRONICA TV
-http://tecnotv.club/23ju/smartv.php?c=cronicatv
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",CIUDAD MAGAZINE
-http://tecnotv.club/23ju/smartv.php?c=ciudadmagazine
-#EXTINF:0 tvg-id="A24.ar" group-title="ENTRETENIMIENTO",A 24
-http://tecnotv.club/23ju/smartv.php?c=a24
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",TELEVISA DEL BAJIO
-http://tecnotv.club/23ju/smartv.php?c=canalbajio
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MX | Canal 5
-http://tecnotv.club/23ju/smartv.php?c=canal5televisa
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MX | Azteca uno
-http://tecnotv.club/23ju/smartv.php?c=azteca
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="ENTRETENIMIENTO",MX | Azteca 7
-http://tecnotv.club/23ju/smartv.php?c=azteca7
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MX | AZTECA MAS
-http://tecnotv.club/23ju/smartv.php?c=aztecamas
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MX | AZTECA CINEMA
-http://tecnotv.club/23ju/smartv.php?c=aztecacinema
-#EXTINF:0 tvg-id="AZCorazon.cl" group-title="ENTRETENIMIENTO",MX | Az mundo
-http://tecnotv.club/23ju/smartv.php?c=aztecamundo
-#EXTINF:0 tvg-id="AZCorazon.cl" group-title="ENTRETENIMIENTO",MX | Az corazon
-http://tecnotv.club/23ju/smartv.php?c=aztecacorazon
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MX | Canal de las estrellas
-http://tecnotv.club/23ju/smartv.php?c=canalestrellas
-#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="ENTRETENIMIENTO",MX | TLNOVELAS
-http://tecnotv.club/23ju/smartv.php?c=telenovelas
-#EXTINF:0 tvg-id="MTVEsp.es" group-title="ENTRETENIMIENTO",MX | MTV
-http://tecnotv.club/23ju/smartv.php?c=mtv
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="CULTURA" user-agent="tuplayer",MX | Animal Planet
+http://tecnotv.club/23ju/android2.php?c=3
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="CULTURA" user-agent="tuplayer",MX | Discovery Channel
+http://tecnotv.club/23ju/android2.php?c=36
+#EXTINF:0 tvg-id="HomeHealth.mx" group-title="CULTURA" user-agent="tuplayer",MX | Discovery Home and Health
+http://tecnotv.club/23ju/android2.php?c=37
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="CULTURA" user-agent="tuplayer",MX | Discovery Science
+http://tecnotv.club/23ju/android2.php?c=39
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="CULTURA" user-agent="tuplayer",MX | Discovery Turbo
+http://tecnotv.club/23ju/android2.php?c=41
+#EXTINF:0 tvg-id="Discovery.uk" group-title="CULTURA" user-agent="tuplayer",MX | Discovery World
+http://tecnotv.club/23ju/android2.php?c=42
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CULTURA" user-agent="tuplayer",MX | Discovery Theater
+http://tecnotv.club/23ju/android2.php?c=40
+#EXTINF:0 tvg-id="Lifetime.mx" group-title="CULTURA" user-agent="tuplayer",Lifetime
+http://tecnotv.club/23ju/android2.php?c=51
+#EXTINF:0 tvg-id="Investigation.uk" group-title="CULTURA" user-agent="tuplayer",MX | Investigation Discovery
+http://tecnotv.club/23ju/android2.php?c=52
+#EXTINF:0 tvg-id="H2.mx" group-title="CULTURA" user-agent="tuplayer",MX | H2
+http://tecnotv.club/23ju/android2.php?c=55
+#EXTINF:0 tvg-id="History.mx" group-title="CULTURA" user-agent="tuplayer",MX | History Channel
+http://tecnotv.club/23ju/android2.php?c=56
+#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="CULTURA" user-agent="tuplayer",MX | NatGeo Wild
+http://tecnotv.club/23ju/android2.php?c=124
+#EXTINF:0 tvg-id="ext" group-title="CULTURA" user-agent="tuplayer",MX | Nat Geo
+http://tecnotv.club/23ju/android2.php?c=125
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="CULTURA" user-agent="tuplayer",MX | National Geographic Channel
+http://tecnotv.club/23ju/android2.php?c=128
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="CULTURA" user-agent="tuplayer",MX | Discovery Civilization
+http://tecnotv.club/23ju/android2.php?c=325
 
-#EXTINF:0 tvg-id="H2.uk" group-title="CULTURA",MX | History 2
-http://tecnotv.club/23ju/smartv.php?c=history2
-#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="CULTURA",MX | Discovery Channel
-http://tecnotv.club/23ju/smartv.php?c=discoverychannel
-#EXTINF:0 tvg-id="tlc-russia" group-title="CULTURA",MX | TLC
-http://tecnotv.club/23ju/smartv.php?c=tlc
-#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="CULTURA",MX | Discovery Civilization
-http://tecnotv.club/23ju/smartv.php?c=discoverycivilization
-#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="CULTURA",MX | Discovery Turbo
-http://tecnotv.club/23ju/smartv.php?c=discoveryturbo
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CULTURA",MX | Discovery Theater
-http://tecnotv.club/23ju/smartv.php?c=discoverytheater
-#EXTINF:0 tvg-id="ext" group-title="CULTURA",MX | Discovery Sciencie
-http://tecnotv.club/23ju/smartv.php?c=discoverysciencie
-#EXTINF:0 tvg-id="DiscoveryID.mx" group-title="CULTURA",MX | Discovery Investigation
-http://tecnotv.club/23ju/smartv.php?c=discoveryinvestigacion
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="CULTURA",MX | Discovery Home and Health
-http://tecnotv.club/23ju/smartv.php?c=discoveryhh
-#EXTINF:0 tvg-id="ext" group-title="CULTURA",MX | Discovery World
-http://tecnotv.club/23ju/smartv.php?c=discoveryworl
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="CULTURA",MX | NatGeo Channel
-http://tecnotv.club/23ju/smartv.php?c=nationalgeo
-#EXTINF:0 tvg-id="ext" group-title="CULTURA",MX | NatGeo Wild
-http://tecnotv.club/23ju/smartv.php?c=nationalwill
-#EXTINF:0 tvg-id="AyE.mx" group-title="CULTURA",MX | A&E
-http://tecnotv.club/23ju/smartv.php?c=ae
-#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="CULTURA",MX | Animal Planet
-http://tecnotv.club/23ju/smartv.php?c=animalplanet
+#EXTINF:0 tvg-id="ParamountChannel.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Paramount
+http://tecnotv.club/23ju/android2.php?c=120
+#EXTINF:0 tvg-id="Multipremier.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Multipremier
+http://tecnotv.club/23ju/android2.php?c=129
+#EXTINF:0 tvg-id="AMC.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | AMC
+http://tecnotv.club/23ju/android2.php?c=6
+#EXTINF:0 tvg-id="AyE.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | A&E
+http://tecnotv.club/23ju/android2.php?c=1
+#EXTINF:0 tvg-id="AXN.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | AXN
+http://tecnotv.club/23ju/android2.php?c=2
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Cine Canal
+http://tecnotv.club/23ju/android2.php?c=19
+#EXTINF:0 tvg-id="CineLatino.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Cine Latino
+http://tecnotv.club/23ju/android2.php?c=20
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Cinema Dinamita
+http://tecnotv.club/23ju/android2.php?c=21
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Cinema Plus
+http://tecnotv.club/23ju/android2.php?c=22
+#EXTINF:0 tvg-id="CityTV.bg" group-title="CINE Y SERIES" user-agent="tuplayer",MX | City TV
+http://tecnotv.club/23ju/android2.php?c=23
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Claro Cinema
+http://tecnotv.club/23ju/android2.php?c=24
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | De Pelicula Plus
+http://tecnotv.club/23ju/android2.php?c=34
+#EXTINF:0 tvg-id="Golden.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Golden
+http://tecnotv.club/23ju/android2.php?c=67
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Fx Movie
+http://tecnotv.club/23ju/android2.php?c=69
+#EXTINF:0 tvg-id="Fox.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Channel
+http://tecnotv.club/23ju/android2.php?c=91
+#EXTINF:0 tvg-id="FX.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | FX
+http://tecnotv.club/23ju/android2.php?c=92
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Euro Channel
+http://tecnotv.club/23ju/android2.php?c=93
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Warner Channel
+http://tecnotv.club/23ju/android2.php?c=99
+#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Universal Channel
+http://tecnotv.club/23ju/android2.php?c=103
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="CINE Y SERIES" user-agent="tuplayer",MX | TNT Series
+http://tecnotv.club/23ju/android2.php?c=109
+#EXTINF:0 tvg-id="TNT.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | TNT
+http://tecnotv.club/23ju/android2.php?c=110
+#EXTINF:0 tvg-id="TLC.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | TLC
+http://tecnotv.club/23ju/android2.php?c=111
+#EXTINF:0 tvg-id="TCM.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | TCM
+http://tecnotv.club/23ju/android2.php?c=112
+#EXTINF:0 tvg-id="TBS.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | TBS
+http://tecnotv.club/23ju/android2.php?c=113
+#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Sundance Channel
+http://tecnotv.club/23ju/android2.php?c=114
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Studio Universal
+http://tecnotv.club/23ju/android2.php?c=115
+#EXTINF:0 tvg-id="Space.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Space
+http://tecnotv.club/23ju/android2.php?c=116
+#EXTINF:0 tvg-id="Sony.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Sony
+http://tecnotv.club/23ju/android2.php?c=117
+#EXTINF:0 tvg-id="SyFy.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Syfy
+http://tecnotv.club/23ju/android2.php?c=371
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | De Pelicula
+http://tecnotv.club/23ju/android2.php?c=324
+#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | HBO plus
+http://tecnotv.club/23ju/android2.php?c=59
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | HBO
+http://tecnotv.club/23ju/android2.php?c=60
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | HBO Signature
+http://tecnotv.club/23ju/android2.php?c=61
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CINE Y SERIES" user-agent="tuplayer",MX | HBO Family
+http://tecnotv.club/23ju/android2.php?c=62
+#EXTINF:0 tvg-id="HBO2.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | HBO 2
+http://tecnotv.club/23ju/android2.php?c=63
+#EXTINF:0 tvg-id="HBOHD.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | HBO
+http://tecnotv.club/23ju/android2.php?c=64
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Series
+http://tecnotv.club/23ju/android2.php?c=78
+#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Movies
+http://tecnotv.club/23ju/android2.php?c=81
+#EXTINF:0 tvg-id="FoxPremiumSeries.ar" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Series
+http://tecnotv.club/23ju/android2.php?c=79
+#EXTINF:0 tvg-id="FoxPremiumFamily.ar" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Family
+http://tecnotv.club/23ju/android2.php?c=84
+#EXTINF:0 tvg-id="FoxPremiumComedy.ar" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Comedy
+http://tecnotv.club/23ju/android2.php?c=85
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Classics
+http://tecnotv.club/23ju/android2.php?c=86
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Cinema 
+http://tecnotv.club/23ju/android2.php?c=87
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Cinema
+http://tecnotv.club/23ju/android2.php?c=88
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Action
+http://tecnotv.club/23ju/android2.php?c=89
+#EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Star Action
+http://tecnotv.club/23ju/android2.php?c=90
+#EXTINF:0 tvg-id="MaxUp.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Max Up
+http://tecnotv.club/23ju/android2.php?c=131
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Max Prime
+http://tecnotv.club/23ju/android2.php?c=132
+#EXTINF:0 tvg-id="MAX.mx" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Max
+http://tecnotv.club/23ju/android2.php?c=133
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Golden Plus
+http://tecnotv.club/23ju/android2.php?c=327
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="tuplayer",MX | Golden Premium
+http://tecnotv.club/23ju/android2.php?c=66
 
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | Star Channel
-http://tecnotv.club/23ju/smartv.php?c=fox
-#EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="CINE Y SERIES",MX | Star Action
-http://tecnotv.club/23ju/smartv.php?c=foxaction
-#EXTINF:0 tvg-id="FoxPremiumSeries.ar" group-title="CINE Y SERIES",MX | Star Series
-http://tecnotv.club/23ju/smartv.php?c=foxseries
-#EXTINF:0 tvg-id="FoxPremiumFamily.ar" group-title="CINE Y SERIES",MX | Star Family
-http://tecnotv.club/23ju/smartv.php?c=foxfamily
-#EXTINF:0 tvg-id="FoxCinema.mx" group-title="CINE Y SERIES",MX | Star Cinema
-http://tecnotv.club/23ju/smartv.php?c=foxcinema
-#EXTINF:0 tvg-id="FoxPremiumComedy.ar" group-title="CINE Y SERIES",MX | Star Comedy
-http://tecnotv.club/23ju/smartv.php?c=foxcomedy
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | Star Classics
-http://tecnotv.club/23ju/smartv.php?c=foxclassics
-#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="CINE Y SERIES",MX | Star Movies
-http://tecnotv.club/23ju/smartv.php?c=foxmovies
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | Star Life
-http://tecnotv.club/23ju/smartv.php?c=foxlife
-#EXTINF:0 tvg-id="HBOLatino.us" group-title="CINE Y SERIES",MX | HBO
-http://tecnotv.club/23ju/smartv.php?c=hbo
-#EXTINF:0 tvg-id="HBO2.mx" group-title="CINE Y SERIES",MX | HBO 2
-http://tecnotv.club/23ju/smartv.php?c=hbo2
-#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="CINE Y SERIES",MX | HBO Plus
-http://tecnotv.club/23ju/smartv.php?c=hboplus
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="CINE Y SERIES",MX | HBO Family
-http://tecnotv.club/23ju/smartv.php?c=hbofamily
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="CINE Y SERIES",MX | HBO Signature
-http://tecnotv.club/23ju/smartv.php?c=hbosignature
-#EXTINF:0 tvg-id="Maxprime.br" group-title="CINE Y SERIES",MX | HBO Xreme
-http://tecnotv.club/23ju/smartv.php?c=maxprime
-#EXTINF:0 tvg-id="Max.br" group-title="CINE Y SERIES",MX | HBO Mundi
-http://tecnotv.club/23ju/smartv.php?c=maxlatino
-#EXTINF:0 tvg-id="Maxup.br" group-title="CINE Y SERIES",MX | HBO Pop
-http://tecnotv.club/23ju/smartv.php?c=maxup
-#EXTINF:0 tvg-id="Golden.mx" group-title="CINE Y SERIES",MX | GOLDEN
-http://tecnotv.club/23ju/smartv.php?c=golden
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | GOLDEN Plus
-http://tecnotv.club/23ju/smartv.php?c=goldenplus
-#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="CINE Y SERIES",MX | GOLDEN Edge
-http://tecnotv.club/23ju/smartv.php?c=goldenedge
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="CINE Y SERIES",MX | Cinemax
-http://tecnotv.club/23ju/smartv.php?c=cinemax
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="CINE Y SERIES",MX | Cinecanal
-http://tecnotv.club/23ju/smartv.php?c=cinecanal
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | TNT
-http://tecnotv.club/23ju/smartv.php?c=tnt
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="CINE Y SERIES",MX | TNT Series
-http://tecnotv.club/23ju/smartv.php?c=tntseries
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | AXN
-http://tecnotv.club/23ju/smartv.php?c=axn
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | AMC
-http://tecnotv.club/23ju/smartv.php?c=amc
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | TCM
-http://tecnotv.club/23ju/smartv.php?c=tcm
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | SyFy
-http://tecnotv.club/23ju/smartv.php?c=syfy
-#EXTINF:0 tvg-id="FXMovie.us" group-title="CINE Y SERIES",MX | FX Movies
-http://tecnotv.club/23ju/smartv.php?c=fxm
-#EXTINF:0 tvg-id="FX.mx" group-title="CINE Y SERIES",MX | FX
-http://tecnotv.club/23ju/smartv.php?c=fx
-#EXTINF:0 tvg-id="Space.mx" group-title="CINE Y SERIES",MX | Space
-http://tecnotv.club/23ju/smartv.php?c=space
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | Comedy Central
-http://tecnotv.club/23ju/smartv.php?c=comedycentral
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | Paramount
-http://tecnotv.club/23ju/smartv.php?c=paramountchannel
-#EXTINF:0 tvg-id="Sony.mx" group-title="CINE Y SERIES",MX | Sony
-http://tecnotv.club/23ju/smartv.php?c=sony
-#EXTINF:0 tvg-id="TBS.mx" group-title="CINE Y SERIES",MX | TBS
-http://tecnotv.club/23ju/smartv.php?c=tbs
-#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="CINE Y SERIES",MX | Sudio Universal
-http://tecnotv.club/23ju/smartv.php?c=studiouniversal
-#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="CINE Y SERIES",MX | Universal Channel
-http://tecnotv.club/23ju/smartv.php?c=universalchannel
-#EXTINF:0 tvg-id="Warnerchannel.br" group-title="CINE Y SERIES",MX | Warner Channel
-http://tecnotv.club/23ju/smartv.php?c=warner
-#EXTINF:0 tvg-id="DePelicula.mx" group-title="CINE Y SERIES",MX | De Pelicula
-http://tecnotv.club/23ju/smartv.php?c=depelicula
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="CINE Y SERIES",MX | Distrito Comedia
-http://tecnotv.club/23ju/smartv.php?c=distritocomedia
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV SPOTLIGHT
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV SPOTLIGHT 2
-https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV SHOWS
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV SHOWS 2
-https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV COMEDY MOVIES
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV COMEDY MOVIES 2
-https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV ACTION MOVIES
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV ACTION MOVIES 2
-https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV FAMILY
-https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV TOP FREE
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | Telemundo
+http://tecnotv.club/23ju/android2.php?c=108
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | RCN Telenovelas
+http://tecnotv.club/23ju/android2.php?c=118
+#EXTINF:0 tvg-id="Pasiones.us" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | Pasiones
+http://tecnotv.club/23ju/android2.php?c=119
+#EXTINF:0 tvg-id="UnivisionEast.us" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | Univision
+http://tecnotv.club/23ju/android2.php?c=102
+#EXTINF:0 tvg-id="Unicable.mx" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | Unicable
+http://tecnotv.club/23ju/android2.php?c=104
+#EXTINF:0 tvg-id="TruTV.uk" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | Tru TV
+http://tecnotv.club/23ju/android2.php?c=105
+#EXTINF:0 tvg-id="TVE.mx" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | Tve
+http://tecnotv.club/23ju/android2.php?c=106
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | Star Life
+http://tecnotv.club/23ju/android2.php?c=82
+#EXTINF:0 tvg-id="FoxLife.mx" group-title="ENTRETENIMIENTO" user-agent="tuplayer",LAT |  Star Life
+http://tecnotv.club/23ju/android2.php?c=83
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | Az Corazon
+http://tecnotv.club/23ju/android2.php?c=4
+#EXTINF:0 tvg-id="AzMundo.mx" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | Az Mundo
+http://tecnotv.club/23ju/android2.php?c=5
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="ENTRETENIMIENTO" user-agent="tuplayer",MX | Comedy Central
+http://tecnotv.club/23ju/android2.php?c=29
 
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TNT SPORTS
-http://tecnotv.club/23ju/smartv.php?c=tnt-sports
-#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="DEPORTES",FOX SPORTS PREMIUM
-http://tecnotv.club/23ju/smartv.php?c=fox-sports-premium
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TUDN
-http://tecnotv.club/23ju/smartv.php?c=tudn
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",GOLTV Latino en vivo Online
-http://tecnotv.club/23ju/smartv.php?c=goltvlatino
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Bein Sports Latino en vivo Online
-http://tecnotv.club/23ju/smartv.php?c=beinlatino
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",VTV URUGUAY
-http://tecnotv.club/23ju/smartv.php?c=vtv
-#EXTINF:0 tvg-id="CaracolTV.us" group-title="DEPORTES",CARACOL TV
-http://tecnotv.club/23ju/smartv.php?c=caracoltv
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",GOL PERU
-http://tecnotv.club/23ju/smartv.php?c=golperu
-#EXTINF:0 tvg-id="CDFBasico.cl" group-title="DEPORTES",CDF
-http://tecnotv.club/23ju/smartv.php?c=cdfpremium
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS ARGENTINA
-http://tecnotv.club/23ju/smartv.php?c=fox-sports1ar
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 2 ARGENTINA
-http://tecnotv.club/23ju/smartv.php?c=fox-sports2ar
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 3 ARGENTINA
-http://tecnotv.club/23ju/smartv.php?c=fox-sports3ar
-#EXTINF:0 tvg-id="ESPN.ar" group-title="DEPORTES",ESPN ARGENTINA
-http://tecnotv.club/23ju/smartv.php?c=espn1ar
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 2 ARGENTINA
-http://tecnotv.club/23ju/smartv.php?c=espn2ar
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 3 ARGENTINA
-http://tecnotv.club/23ju/smartv.php?c=espn3ar
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS MEXICO
-http://tecnotv.club/23ju/smartv.php?c=fox-sports1mx
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 2 MEXICO
-http://tecnotv.club/23ju/smartv.php?c=fox-sports2mx
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 3 MEXICO
-http://tecnotv.club/23ju/smartv.php?c=fox-sports3mx
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN MEXICO
-http://tecnotv.club/23ju/smartv.php?c=espn1mx
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="DEPORTES",ESPN 2 MEXICO
-http://tecnotv.club/23ju/smartv.php?c=espn2mx
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 3 MEXICO
-http://tecnotv.club/23ju/smartv.php?c=espn3mx
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN + ARGENTINA
-http://tecnotv.club/23ju/smartv.php?c=espn+ar
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORTS
-http://tecnotv.club/23ju/smartv.php?c=directv-sports
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORTS 2
-http://tecnotv.club/23ju/smartv.php?c=directv-sports2
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORTS PLUS
-http://tecnotv.club/23ju/smartv.php?c=directv-sports-plus
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="DEPORTES",TYC SPORTS
-http://tecnotv.club/23ju/smartv.php?c=tyc
-#EXTINF:0 tvg-id="GolfChannel.mx" group-title="DEPORTES",GOLF CHANNEL
-http://tecnotv.club/23ju/smartv.php?c=golflatino
-#EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="DEPORTES",FOX PREMIUM ACTION
-http://tecnotv.club/23ju/smartv.php?c=foxaction
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ADRENALINA SPORTS
-http://tecnotv.club/23ju/smartv.php?c=adrenalinatv
-#EXTINF:0 tvg-id="AyMSports.mx" group-title="DEPORTES",AYM SPORTS
-http://tecnotv.club/23ju/smartv.php?c=aymsports
-#EXTINF:0 tvg-id="UnivisionDeportesNetwork.us" group-title="DEPORTES",UNIVISION DEPORTES
-http://tecnotv.club/23ju/smartv.php?c=univisiondeportes
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",WIN SPORTS
-http://tecnotv.club/23ju/smartv.php?c=winsports
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Fox Sports 3 Sur
+http://tecnotv.club/23ju/android2.php?c=72
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="DEPORTES" user-agent="tuplayer",Fox Sports 2 MX
+http://tecnotv.club/23ju/android2.php?c=74
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Fox Sports 2 Sur
+http://tecnotv.club/23ju/android2.php?c=75
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Fox Sports 1 Sur
+http://tecnotv.club/23ju/android2.php?c=76
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Fox Sports 1 MX
+http://tecnotv.club/23ju/android2.php?c=77
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="DEPORTES" user-agent="tuplayer",Claro Sports
+http://tecnotv.club/23ju/android2.php?c=27
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Claro Sports Latinoamerica
+http://tecnotv.club/23ju/android2.php?c=28
+#EXTINF:0 tvg-id="GolfChannel.mx" group-title="DEPORTES" user-agent="tuplayer",Golf Channel
+http://tecnotv.club/23ju/android2.php?c=65
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Espn Plus Sur
+http://tecnotv.club/23ju/android2.php?c=94
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Espn 3 Sur
+http://tecnotv.club/23ju/android2.php?c=95
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Espn 2 Sur
+http://tecnotv.club/23ju/android2.php?c=96
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Espn 1 Sur
+http://tecnotv.club/23ju/android2.php?c=97
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Win Sports
+http://tecnotv.club/23ju/android2.php?c=98
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Gol TV Internacional
+http://tecnotv.club/23ju/android2.php?c=338
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Tigo Sports 1
+http://tecnotv.club/23ju/android2.php?c=339
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Tigo Sports 2
+http://tecnotv.club/23ju/android2.php?c=340
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Tigo Sports 3
+http://tecnotv.club/23ju/android2.php?c=341
+#EXTINF:0 tvg-id="EstrellaTV.us" group-title="DEPORTES" user-agent="tuplayer",Estrella tv
+http://tecnotv.club/23ju/android2.php?c=342
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Bein sports ñ T
+http://tecnotv.club/23ju/android2.php?c=343
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Euro Sports 1
+http://tecnotv.club/23ju/android2.php?c=344
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Euro Sports 2
+http://tecnotv.club/23ju/android2.php?c=345
+#EXTINF:0 tvg-id="FightBox.pl" group-title="DEPORTES" user-agent="tuplayer",Fightbox
+http://tecnotv.club/23ju/android2.php?c=346
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Fight Time
+http://tecnotv.club/23ju/android2.php?c=347
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="DEPORTES" user-agent="tuplayer",MLB Network
+http://tecnotv.club/23ju/android2.php?c=349
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Motorsports TV
+http://tecnotv.club/23ju/android2.php?c=350
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",RedBull
+http://tecnotv.club/23ju/android2.php?c=351
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="DEPORTES" user-agent="tuplayer",Real Madrid tv
+http://tecnotv.club/23ju/android2.php?c=352
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",UFC TV
+http://tecnotv.club/23ju/android2.php?c=353
+#EXTINF:0 tvg-id="MLigaCampeones.es" group-title="DEPORTES" user-agent="tuplayer",movistar liga de Campeones
+http://tecnotv.club/23ju/android2.php?c=357
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="tuplayer",Win Sports+
+http://tecnotv.club/23ju/android2.php?c=374
 
+#EXTINF:0 tvg-id="MTVHits.eu" group-title="MUSICA" user-agent="tuplayer",MX | MTV Hits
+http://tecnotv.club/23ju/android2.php?c=49
+#EXTINF:0 tvg-id="MTV.mx" group-title="MUSICA" user-agent="tuplayer",MX | MTV
+http://tecnotv.club/23ju/android2.php?c=50
+#EXTINF:0 tvg-id="ext" group-title="MUSICA" user-agent="tuplayer",MX | Claro Music 1
+http://tecnotv.club/23ju/android2.php?c=25
+#EXTINF:0 tvg-id="ext" group-title="MUSICA" user-agent="tuplayer",MX | Claro Music 2
+http://tecnotv.club/23ju/android2.php?c=26
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="MUSICA" user-agent="tuplayer",US | Vh1 Classic
+http://tecnotv.club/23ju/android2.php?c=100
+#EXTINF:0 tvg-id="VH1.mx" group-title="MUSICA" user-agent="tuplayer",MX | Vh1
+http://tecnotv.club/23ju/android2.php?c=101
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="MUSICA" user-agent="tuplayer",MX | Mtv Live
+http://tecnotv.club/23ju/android2.php?c=130
 
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Lazy Town
+http://tecnotv.club/23ju/android2.php?c=235
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Barnie y sus amigos
+http://tecnotv.club/23ju/android2.php?c=236
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Dora la exploradora
+http://tecnotv.club/23ju/android2.php?c=237
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",PJ Masks
+http://tecnotv.club/23ju/android2.php?c=238
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",caillou
+http://tecnotv.club/23ju/android2.php?c=239
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Jorge el Curioso
+http://tecnotv.club/23ju/android2.php?c=240
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="24/7" user-agent="tuplayer",peppa pig
+http://tecnotv.club/23ju/android2.php?c=241
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",happy tree friends
+http://tecnotv.club/23ju/android2.php?c=242
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Los picapiedras
+http://tecnotv.club/23ju/android2.php?c=243
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Le temes a la oscuridad
+http://tecnotv.club/23ju/android2.php?c=244
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Pantera Rosa 80s
+http://tecnotv.club/23ju/android2.php?c=245
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Correcaminos
+http://tecnotv.club/23ju/android2.php?c=246
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Power Rangers
+http://tecnotv.club/23ju/android2.php?c=247
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Cuentos Hermanos Grimm
+http://tecnotv.club/23ju/android2.php?c=248
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Robotech
+http://tecnotv.club/23ju/android2.php?c=249
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Estrenos 2018
+http://tecnotv.club/23ju/android2.php?c=250
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",El Chapulin Colorado
+http://tecnotv.club/23ju/android2.php?c=251
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Death Note
+http://tecnotv.club/23ju/android2.php?c=252
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",CSI Miami
+http://tecnotv.club/23ju/android2.php?c=253
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Alf
+http://tecnotv.club/23ju/android2.php?c=254
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",X-men 90s
+http://tecnotv.club/23ju/android2.php?c=255
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Vete a la Versh
+http://tecnotv.club/23ju/android2.php?c=256
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",The Walking Dead
+http://tecnotv.club/23ju/android2.php?c=257
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Super campeones
+http://tecnotv.club/23ju/android2.php?c=258
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",strangerthings
+http://tecnotv.club/23ju/android2.php?c=259
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Spiderman 80s
+http://tecnotv.club/23ju/android2.php?c=260
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Sounth Park
+http://tecnotv.club/23ju/android2.php?c=261
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Smallville
+http://tecnotv.club/23ju/android2.php?c=262
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Shera
+http://tecnotv.club/23ju/android2.php?c=263
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Señor de los cielos
+http://tecnotv.club/23ju/android2.php?c=264
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Sailormoon
+http://tecnotv.club/23ju/android2.php?c=265
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Pokemon
+http://tecnotv.club/23ju/android2.php?c=266
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Pinky y Cerebro
+http://tecnotv.club/23ju/android2.php?c=267
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Peliculas Terror
+http://tecnotv.club/23ju/android2.php?c=268
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Pablo Escobar
+http://tecnotv.club/23ju/android2.php?c=269
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Naruto
+http://tecnotv.club/23ju/android2.php?c=270
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Mazinger Z
+http://tecnotv.club/23ju/android2.php?c=271
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Malcolm el de enmedio
+http://tecnotv.club/23ju/android2.php?c=272
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Luis Miguel
+http://tecnotv.club/23ju/android2.php?c=273
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Lucha Libre AAA
+http://tecnotv.club/23ju/android2.php?c=274
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Los Thundercats
+http://tecnotv.club/23ju/android2.php?c=275
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Los Simpsons
+http://tecnotv.club/23ju/android2.php?c=276
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",La Rosa de Guadalupe
+http://tecnotv.club/23ju/android2.php?c=277
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Heman
+http://tecnotv.club/23ju/android2.php?c=278
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Game Of Throne
+http://tecnotv.club/23ju/android2.php?c=279
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Futurama
+http://tecnotv.club/23ju/android2.php?c=280
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Dragon Ball Z
+http://tecnotv.club/23ju/android2.php?c=281
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Dragon Ball Super
+http://tecnotv.club/23ju/android2.php?c=282
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Dragon Ball GT
+http://tecnotv.club/23ju/android2.php?c=283
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Dragon ball
+http://tecnotv.club/23ju/android2.php?c=284
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Dinosaurios
+http://tecnotv.club/23ju/android2.php?c=285
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Coraje el perro cobarde
+http://tecnotv.club/23ju/android2.php?c=286
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Años Maravillosos
+http://tecnotv.club/23ju/android2.php?c=287
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",La casa de papel
+http://tecnotv.club/23ju/android2.php?c=288
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",El chema
+http://tecnotv.club/23ju/android2.php?c=289
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",El chavo
+http://tecnotv.club/23ju/android2.php?c=290
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",caballerosdel zodiaco
+http://tecnotv.club/23ju/android2.php?c=291
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Breaking bad
+http://tecnotv.club/23ju/android2.php?c=292
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="tuplayer",Bob Esponja 24/7
+http://tecnotv.club/23ju/android2.php?c=293
 #EXTINF:0 tvg-id="avi" group-title="peliculas",Space Jam Una Nueva Era | REGIOFLIX
 http://ipeteve.com/REGIOFLIX180721/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 #EXTINF:0 tvg-id="avi" group-title="peliculas",Viuda Negra 2021 | REGIOFLIX
