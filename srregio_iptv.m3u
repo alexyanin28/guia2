@@ -1,265 +1,265 @@
-#EXTM3U tvg-shift=+7
-#EXTINF:1 tvg-id="ext" group-title="Lista 02",BLACKGHOST 02
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Lista 02",BLACKGHOST 02
 https://blackghost.live/TV&f=.m3u8
-#EXTINF:1 tvg-id="ext" group-title="Lista 02",http://paypal.me/blackghost
+#EXTINF:0 tvg-id="ext" group-title="Lista 02",http://paypal.me/blackghost
 https://blackghost.live/TV&f=.m3u8
-#EXTINF:1 tvg-id="AyE.mx" group-title="Lista 02" user-agent="megapro",A&E
+#EXTINF:0 tvg-id="AyE.mx" group-title="Lista 02" user-agent="megapro",MX | A&E
 https://blackghost.live/play/megapro-725.php?c=1
-#EXTINF:1 tvg-id="AXN.mx" group-title="Lista 02" user-agent="megapro",AXN
+#EXTINF:0 tvg-id="AXN.mx" group-title="Lista 02" user-agent="megapro",MX | AXN
 https://blackghost.live/play/megapro-725.php?c=2
-#EXTINF:1 tvg-id="AnimalPlanet.mx" group-title="Lista 02" user-agent="megapro",Animal Planet
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Lista 02" user-agent="megapro",MX | Animal Planet
 https://blackghost.live/play/megapro-725.php?c=3
-#EXTINF:1 tvg-id="AzCorazon.mx" group-title="Lista 02" user-agent="megapro",Az Corazon
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Lista 02" user-agent="megapro",MX | Az Corazon
 https://blackghost.live/play/megapro-725.php?c=4
-#EXTINF:1 tvg-id="AzMundo.mx" group-title="Lista 02" user-agent="megapro",Az Mundo
+#EXTINF:0 tvg-id="AzMundo.mx" group-title="Lista 02" user-agent="megapro",MX | Az Mundo
 https://blackghost.live/play/megapro-725.php?c=5
-#EXTINF:1 tvg-id="AMC.mx" group-title="Lista 02" user-agent="megapro",AMC
+#EXTINF:0 tvg-id="AMC.mx" group-title="Lista 02" user-agent="megapro",MX | AMC
 https://blackghost.live/play/megapro-725.php?c=6
-#EXTINF:1 tvg-id="Antena3.mx" group-title="Lista 02" user-agent="megapro",Antena 3 Internacional
+#EXTINF:0 tvg-id="Antena3.mx" group-title="Lista 02" user-agent="megapro",Antena 3 Internacional
 https://blackghost.live/play/megapro-725.php?c=7
-#EXTINF:1 tvg-id="BBCNews.nws" group-title="Lista 02" user-agent="megapro",BBC World
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Lista 02" user-agent="megapro",BBC World
 https://blackghost.live/play/megapro-725.php?c=8
-#EXTINF:1 tvg-id="BabyTV.uk" group-title="Lista 02" user-agent="megapro",Baby TV
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Lista 02" user-agent="megapro",Baby TV
 https://blackghost.live/play/megapro-725.php?c=9
-#EXTINF:1 tvg-id="Bloomberg.mx" group-title="Lista 02" user-agent="megapro",Bloomberg
+#EXTINF:0 tvg-id="Bloomberg.mx" group-title="Lista 02" user-agent="megapro",Bloomberg
 https://blackghost.live/play/megapro-725.php?c=10
-#EXTINF:1 tvg-id="CNNEspanol.cl" group-title="Lista 02" user-agent="megapro",CNN Espanol
+#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Lista 02" user-agent="megapro",CNN Espanol
 https://blackghost.live/play/megapro-725.php?c=11
-#EXTINF:1 tvg-id="CNNInternacional.ar" group-title="Lista 02" user-agent="megapro",CNN Internacional
+#EXTINF:0 tvg-id="CNNInternacional.ar" group-title="Lista 02" user-agent="megapro",CNN Internacional
 https://blackghost.live/play/megapro-725.php?c=12
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Cable Noticias
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Cable Noticias
 https://blackghost.live/play/megapro-725.php?c=13
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Canal Claro
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Canal Claro
 https://blackghost.live/play/megapro-725.php?c=14
-#EXTINF:1 tvg-id="CaracolColombia.cl" group-title="Lista 02" user-agent="megapro",Caracol
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Lista 02" user-agent="megapro",Caracol
 https://blackghost.live/play/megapro-725.php?c=16
-#EXTINF:1 tvg-id="CaracolTV.us" group-title="Lista 02" user-agent="megapro",Caracol Internacional
+#EXTINF:0 tvg-id="CaracolTV.us" group-title="Lista 02" user-agent="megapro",Caracol Internacional
 https://blackghost.live/play/megapro-725.php?c=17
-#EXTINF:1 tvg-id="CartoonNetwork.mx" group-title="Lista 02" user-agent="megapro",Cartoon Network
+#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Lista 02" user-agent="megapro",MX | Cartoon Network
 https://blackghost.live/play/megapro-725.php?c=18
-#EXTINF:1 tvg-id="CinecanalW.mx" group-title="Lista 02" user-agent="megapro",Cine Canal
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista 02" user-agent="megapro",MX | Cine Canal
 https://blackghost.live/play/megapro-725.php?c=19
-#EXTINF:1 tvg-id="CineLatino.mx" group-title="Lista 02" user-agent="megapro",Cine Latino
+#EXTINF:0 tvg-id="CineLatino.mx" group-title="Lista 02" user-agent="megapro",MX | Cine Latino
 https://blackghost.live/play/megapro-725.php?c=20
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Cinema Dinamita
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Cinema Dinamita
 https://blackghost.live/play/megapro-725.php?c=21
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Cinema Plus
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Cinema Plus
 https://blackghost.live/play/megapro-725.php?c=22
-#EXTINF:1 tvg-id="CityTV.bg" group-title="Lista 02" user-agent="megapro",City TV
+#EXTINF:0 tvg-id="CityTV.bg" group-title="Lista 02" user-agent="megapro",City TV
 https://blackghost.live/play/megapro-725.php?c=23
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Claro Cinema
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Claro Cinema
 https://blackghost.live/play/megapro-725.php?c=24
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Claro Music 1
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Claro Music 1
 https://blackghost.live/play/megapro-725.php?c=25
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Claro Music 2
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Claro Music 2
 https://blackghost.live/play/megapro-725.php?c=26
-#EXTINF:1 tvg-id="ClaroSports.mx" group-title="Lista 02" user-agent="megapro",Claro Sports
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Lista 02" user-agent="megapro",Claro Sports
 https://blackghost.live/play/megapro-725.php?c=27
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Claro Sports Latinoamerica
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Claro Sports Latinoamerica
 https://blackghost.live/play/megapro-725.php?c=28
-#EXTINF:1 tvg-id="ComedyCentral.mx" group-title="Lista 02" user-agent="megapro",Comedy Central
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Lista 02" user-agent="megapro",MX | Comedy Central
 https://blackghost.live/play/megapro-725.php?c=29
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",DHE
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | DHE
 https://blackghost.live/play/megapro-725.php?c=31
-#EXTINF:1 tvg-id="DW.al" group-title="Lista 02" user-agent="megapro",DW
+#EXTINF:0 tvg-id="DW.al" group-title="Lista 02" user-agent="megapro",MX | DW
 https://blackghost.live/play/megapro-725.php?c=32
-#EXTINF:1 tvg-id="ConcertChannel.mx" group-title="Lista 02" user-agent="megapro",Concert Channel
+#EXTINF:0 tvg-id="ConcertChannel.mx" group-title="Lista 02" user-agent="megapro",Concert Channel
 https://blackghost.live/play/megapro-725.php?c=30
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",DW America
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | DW America
 https://blackghost.live/play/megapro-725.php?c=33
-#EXTINF:1 tvg-id="ext" group-title="Lista 02" user-agent="megapro",De Pelicula Plus
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | De Pelicula Plus
 https://blackghost.live/play/megapro-725.php?c=34
-#EXTINF:1 tvg-id="DiscoveryChannel.mx" group-title="Lista 02" user-agent="megapro",Discovery Channel
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Lista 02" user-agent="megapro",MX | Discovery Channel
 https://blackghost.live/play/megapro-725.php?c=36
-#EXTINF:0 tvg-id="HomeHealth.mx" group-title="Lista 02" user-agent="megapro",Discovery Home and Health
+#EXTINF:0 tvg-id="HomeHealth.mx" group-title="Lista 02" user-agent="megapro",MX | Discovery Home and Health
 https://blackghost.live/play/megapro-725.php?c=37
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Lista 02" user-agent="megapro",Discovery Kids
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Lista 02" user-agent="megapro",MX | Discovery Kids
 https://blackghost.live/play/megapro-725.php?c=38
-#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Lista 02" user-agent="megapro",Discovery Science
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Lista 02" user-agent="megapro",MX | Discovery Science
 https://blackghost.live/play/megapro-725.php?c=39
-#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Lista 02" user-agent="megapro",Discovery Turbo
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Lista 02" user-agent="megapro",MX | Discovery Turbo
 https://blackghost.live/play/megapro-725.php?c=41
-#EXTINF:0 tvg-id="Discovery.uk" group-title="Lista 02" user-agent="megapro",Discovery World
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Lista 02" user-agent="megapro",MX | Discovery World
 https://blackghost.live/play/megapro-725.php?c=42
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Lista 02" user-agent="megapro",Discovery Theater
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Lista 02" user-agent="megapro",MX | Discovery Theater
 https://blackghost.live/play/megapro-725.php?c=40
-#EXTINF:0 tvg-id="Disney.uk" group-title="Lista 02" user-agent="megapro",Disney
+#EXTINF:0 tvg-id="Disney.uk" group-title="Lista 02" user-agent="megapro",MX | Disney
 https://blackghost.live/play/megapro-725.php?c=43
-#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Lista 02" user-agent="megapro",Disney JR
+#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Lista 02" user-agent="megapro",MX | Disney JR
 https://blackghost.live/play/megapro-725.php?c=44
-#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Lista 02" user-agent="megapro",Disney XD
+#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Lista 02" user-agent="megapro",MX | Disney XD
 https://blackghost.live/play/megapro-725.php?c=45
-#EXTINF:0 tvg-id="E.ar" group-title="Lista 02" user-agent="megapro",E !
+#EXTINF:0 tvg-id="E.ar" group-title="Lista 02" user-agent="megapro",MX | E !
 https://blackghost.live/play/megapro-725.php?c=46
-#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Lista 02" user-agent="megapro",El Gourmet
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Lista 02" user-agent="megapro",MX | El Gourmet
 https://blackghost.live/play/megapro-725.php?c=47
-#EXTINF:0 tvg-id="Maschic.mx" group-title="Lista 02" user-agent="megapro",Mas Chic
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Lista 02" user-agent="megapro",MX | Mas Chic
 https://blackghost.live/play/megapro-725.php?c=48
-#EXTINF:0 tvg-id="MTVHits.eu" group-title="Lista 02" user-agent="megapro",MTV Hits
+#EXTINF:0 tvg-id="MTVHits.eu" group-title="Lista 02" user-agent="megapro",MX | MTV Hits
 https://blackghost.live/play/megapro-725.php?c=49
-#EXTINF:0 tvg-id="MTV.mx" group-title="Lista 02" user-agent="megapro",MTV
+#EXTINF:0 tvg-id="MTV.mx" group-title="Lista 02" user-agent="megapro",MX | MTV
 https://blackghost.live/play/megapro-725.php?c=50
-#EXTINF:0 tvg-id="Lifetime.mx" group-title="Lista 02" user-agent="megapro",Lifetime
+#EXTINF:0 tvg-id="Lifetime.mx" group-title="Lista 02" user-agent="megapro",MX | Lifetime
 https://blackghost.live/play/megapro-725.php?c=51
-#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista 02" user-agent="megapro",Investigation Discovery
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista 02" user-agent="megapro",MX | Investigation Discovery
 https://blackghost.live/play/megapro-725.php?c=52
-#EXTINF:0 tvg-id="ISat.mx" group-title="Lista 02" user-agent="megapro",I.Sat
+#EXTINF:0 tvg-id="ISat.mx" group-title="Lista 02" user-agent="megapro",MX | I.Sat
 https://blackghost.live/play/megapro-725.php?c=53
-#EXTINF:0 tvg-id="HolaTV.us" group-title="Lista 02" user-agent="megapro",Hola TV
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Lista 02" user-agent="megapro",MX | Hola TV
 https://blackghost.live/play/megapro-725.php?c=54
 #EXTINF:0 tvg-id="H2.mx" group-title="Lista 02" user-agent="megapro",H2
 https://blackghost.live/play/megapro-725.php?c=55
-#EXTINF:0 tvg-id="History.mx" group-title="Lista 02" user-agent="megapro",History Channel
+#EXTINF:0 tvg-id="History.mx" group-title="Lista 02" user-agent="megapro",MX | History Channel
 https://blackghost.live/play/megapro-725.php?c=56
-#EXTINF:0 tvg-id="HTV.mx" group-title="Lista 02" user-agent="megapro",HTV
+#EXTINF:0 tvg-id="HTV.mx" group-title="Lista 02" user-agent="megapro",MX | HTV
 https://blackghost.live/play/megapro-725.php?c=57
-#EXTINF:0 tvg-id="HLN.us" group-title="Lista 02" user-agent="megapro",HLN
+#EXTINF:0 tvg-id="HLN.us" group-title="Lista 02" user-agent="megapro",MX | HLN
 https://blackghost.live/play/megapro-725.php?c=58
-#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="Lista 02" user-agent="megapro",HBO plus
+#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="Lista 02" user-agent="megapro",MX | HBO plus
 https://blackghost.live/play/megapro-725.php?c=59
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",HBO Subtitulado
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | HBO Subtitulado
 https://blackghost.live/play/megapro-725.php?c=60
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Lista 02" user-agent="megapro",HBO Signature
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Lista 02" user-agent="megapro",MX | HBO Signature
 https://blackghost.live/play/megapro-725.php?c=61
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Lista 02" user-agent="megapro",HBO Family
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Lista 02" user-agent="megapro",MX | HBO Family
 https://blackghost.live/play/megapro-725.php?c=62
-#EXTINF:0 tvg-id="HBO2.mx" group-title="Lista 02" user-agent="megapro",HBO 2
+#EXTINF:0 tvg-id="HBO2.mx" group-title="Lista 02" user-agent="megapro",MX | HBO 2
 https://blackghost.live/play/megapro-725.php?c=63
-#EXTINF:0 tvg-id="HBOHD.mx" group-title="Lista 02" user-agent="megapro",HBO
+#EXTINF:0 tvg-id="HBOHD.mx" group-title="Lista 02" user-agent="megapro",MX | HBO
 https://blackghost.live/play/megapro-725.php?c=64
-#EXTINF:0 tvg-id="GolfChannel.mx" group-title="Lista 02" user-agent="megapro",Golf Channel
+#EXTINF:0 tvg-id="GolfChannel.mx" group-title="Lista 02" user-agent="megapro",MX | Golf Channel
 https://blackghost.live/play/megapro-725.php?c=65
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Golden Premium
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Golden Premium
 https://blackghost.live/play/megapro-725.php?c=66
-#EXTINF:0 tvg-id="Golden.mx" group-title="Lista 02" user-agent="megapro",Golden
+#EXTINF:0 tvg-id="Golden.mx" group-title="Lista 02" user-agent="megapro",MX | Golden
 https://blackghost.live/play/megapro-725.php?c=67
-#EXTINF:0 tvg-id="Glitz.mx" group-title="Lista 02" user-agent="megapro",Glitz
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Lista 02" user-agent="megapro",MX | Glitz
 https://blackghost.live/play/megapro-725.php?c=68
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Fx Movie Mex
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Fx Movie Mex
 https://blackghost.live/play/megapro-725.php?c=69
-#EXTINF:0 tvg-id="France24.fr" group-title="Lista 02" user-agent="megapro",France 24
+#EXTINF:0 tvg-id="France24.fr" group-title="Lista 02" user-agent="megapro",MX | France 24
 https://blackghost.live/play/megapro-725.php?c=71
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Fox Sports 3 Sur
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Fox Sports 3 Sur
 https://blackghost.live/play/megapro-725.php?c=72
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista 02" user-agent="megapro",Fox Sports 2 MX
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista 02" user-agent="megapro",MX | Fox Sports 2 MX
 https://blackghost.live/play/megapro-725.php?c=74
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Fox Sports 2 Sur
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Fox Sports 2 Sur
 https://blackghost.live/play/megapro-725.php?c=75
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Fox Sports 1 Sur
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Fox Sports 1 Sur
 https://blackghost.live/play/megapro-725.php?c=76
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Fox Sports 1 MX
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Fox Sports 1 MX
 https://blackghost.live/play/megapro-725.php?c=77
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Fox Premium Series Subtitulado
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Fox Premium Series Subtitulado
 https://blackghost.live/play/megapro-725.php?c=78
-#EXTINF:0 tvg-id="FoxPremiumSeries.ar" group-title="Lista 02" user-agent="megapro",Fox Premium Series
+#EXTINF:0 tvg-id="FoxPremiumSeries.ar" group-title="Lista 02" user-agent="megapro",MX | Star Series
 https://blackghost.live/play/megapro-725.php?c=79
-#EXTINF:0 tvg-id="FoxNews.mx" group-title="Lista 02" user-agent="megapro",Fox News
+#EXTINF:0 tvg-id="FoxNews.mx" group-title="Lista 02" user-agent="megapro",MX | Fox News
 https://blackghost.live/play/megapro-725.php?c=80
-#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="Lista 02" user-agent="megapro",Fox Premium Movies
+#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="Lista 02" user-agent="megapro",MX | Star Movies
 https://blackghost.live/play/megapro-725.php?c=81
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Fox Life Mex
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Star Life Mex
 https://blackghost.live/play/megapro-725.php?c=82
-#EXTINF:0 tvg-id="FoxLife.mx" group-title="Lista 02" user-agent="megapro",Fox Life
+#EXTINF:0 tvg-id="FoxLife.mx" group-title="Lista 02" user-agent="megapro",MX | Star Life
 https://blackghost.live/play/megapro-725.php?c=83
-#EXTINF:0 tvg-id="FoxPremiumFamily.ar" group-title="Lista 02" user-agent="megapro",Fox Premium Family
+#EXTINF:0 tvg-id="FoxPremiumFamily.ar" group-title="Lista 02" user-agent="megapro",MX | Star Family
 https://blackghost.live/play/megapro-725.php?c=84
-#EXTINF:0 tvg-id="FoxPremiumComedy.ar" group-title="Lista 02" user-agent="megapro",Fox Premium Comedy
+#EXTINF:0 tvg-id="FoxPremiumComedy.ar" group-title="Lista 02" user-agent="megapro",MX | Star Comedy
 https://blackghost.live/play/megapro-725.php?c=85
-#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Lista 02" user-agent="megapro",Fox Premium Classics
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Lista 02" user-agent="megapro",MX | Star Classics
 https://blackghost.live/play/megapro-725.php?c=86
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Fox Cinema Subtitulado
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Star Cinema Subtitulado
 https://blackghost.live/play/megapro-725.php?c=87
-#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Lista 02" user-agent="megapro",Fox Premium Cinema
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Lista 02" user-agent="megapro",MX | Star Cinema
 https://blackghost.live/play/megapro-725.php?c=88
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Fox Premium Action MX
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Star Action MX
 https://blackghost.live/play/megapro-725.php?c=89
-#EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="Lista 02" user-agent="megapro",Fox Premium Action
+#EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="Lista 02" user-agent="megapro",MX | Star Action
 https://blackghost.live/play/megapro-725.php?c=90
-#EXTINF:0 tvg-id="Fox.mx" group-title="Lista 02" user-agent="megapro",Fox
+#EXTINF:0 tvg-id="Fox.mx" group-title="Lista 02" user-agent="megapro",MX | Star Channel
 https://blackghost.live/play/megapro-725.php?c=91
-#EXTINF:0 tvg-id="FX.mx" group-title="Lista 02" user-agent="megapro",FX
+#EXTINF:0 tvg-id="FX.mx" group-title="Lista 02" user-agent="megapro",MX | FX
 https://blackghost.live/play/megapro-725.php?c=92
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Euro Channel
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Euro Channel
 https://blackghost.live/play/megapro-725.php?c=93
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Espn Plus Sur
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Espn Plus Sur
 https://blackghost.live/play/megapro-725.php?c=94
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Espn 3 Sur
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Espn 3 Sur
 https://blackghost.live/play/megapro-725.php?c=95
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Espn 2 Sur
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Espn 2 Sur
 https://blackghost.live/play/megapro-725.php?c=96
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Espn 1 Sur
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Espn 1 Sur
 https://blackghost.live/play/megapro-725.php?c=97
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Win Sports
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Win Sports
 https://blackghost.live/play/megapro-725.php?c=98
-#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Lista 02" user-agent="megapro",Warner Channel
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Lista 02" user-agent="megapro",MX | Warner Channel
 https://blackghost.live/play/megapro-725.php?c=99
-#EXTINF:0 tvg-id="VH1Classic.eu" group-title="Lista 02" user-agent="megapro",Vh1 Classic
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="Lista 02" user-agent="megapro",MX | Vh1 Classic
 https://blackghost.live/play/megapro-725.php?c=100
-#EXTINF:0 tvg-id="VH1.mx" group-title="Lista 02" user-agent="megapro",Vh1
+#EXTINF:0 tvg-id="VH1.mx" group-title="Lista 02" user-agent="megapro",MX | Vh1
 https://blackghost.live/play/megapro-725.php?c=101
-#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Lista 02" user-agent="megapro",Univision
+#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Lista 02" user-agent="megapro",MX | Univision
 https://blackghost.live/play/megapro-725.php?c=102
-#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="Lista 02" user-agent="megapro",Universal Channel
+#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="Lista 02" user-agent="megapro",MX | Universal Channel
 https://blackghost.live/play/megapro-725.php?c=103
-#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista 02" user-agent="megapro",Unicable
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista 02" user-agent="megapro",MX | Unicable
 https://blackghost.live/play/megapro-725.php?c=104
-#EXTINF:0 tvg-id="TruTV.uk" group-title="Lista 02" user-agent="megapro",Tru TV
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Lista 02" user-agent="megapro",MX | Tru TV
 https://blackghost.live/play/megapro-725.php?c=105
-#EXTINF:0 tvg-id="TVE.mx" group-title="Lista 02" user-agent="megapro",Tve
+#EXTINF:0 tvg-id="TVE.mx" group-title="Lista 02" user-agent="megapro",MX | Tve
 https://blackghost.live/play/megapro-725.php?c=106
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Lista 02" user-agent="megapro",Tooncast
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Lista 02" user-agent="megapro",MX | Tooncast
 https://blackghost.live/play/megapro-725.php?c=107
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista 02" user-agent="megapro",Telemundo
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista 02" user-agent="megapro",MX | Telemundo
 https://blackghost.live/play/megapro-725.php?c=108
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista 02" user-agent="megapro",TNT Series
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista 02" user-agent="megapro",MX | TNT Series
 https://blackghost.live/play/megapro-725.php?c=109
-#EXTINF:0 tvg-id="TNT.mx" group-title="Lista 02" user-agent="megapro",TNT
+#EXTINF:0 tvg-id="TNT.mx" group-title="Lista 02" user-agent="megapro",MX | TNT
 https://blackghost.live/play/megapro-725.php?c=110
-#EXTINF:0 tvg-id="TLC.mx" group-title="Lista 02" user-agent="megapro",TLC
+#EXTINF:0 tvg-id="TLC.mx" group-title="Lista 02" user-agent="megapro",MX | TLC
 https://blackghost.live/play/megapro-725.php?c=111
-#EXTINF:0 tvg-id="TCM.mx" group-title="Lista 02" user-agent="megapro",TCM
+#EXTINF:0 tvg-id="TCM.mx" group-title="Lista 02" user-agent="megapro",MX | TCM
 https://blackghost.live/play/megapro-725.php?c=112
-#EXTINF:0 tvg-id="TBS.mx" group-title="Lista 02" user-agent="megapro",TBS
+#EXTINF:0 tvg-id="TBS.mx" group-title="Lista 02" user-agent="megapro",MX | TBS
 https://blackghost.live/play/megapro-725.php?c=113
-#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="Lista 02" user-agent="megapro",Sundance Channel
+#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="Lista 02" user-agent="megapro",MX | Sundance Channel
 https://blackghost.live/play/megapro-725.php?c=114
-#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Lista 02" user-agent="megapro",Studio Universal
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Lista 02" user-agent="megapro",MX | Studio Universal
 https://blackghost.live/play/megapro-725.php?c=115
-#EXTINF:0 tvg-id="Space.mx" group-title="Lista 02" user-agent="megapro",Space
+#EXTINF:0 tvg-id="Space.mx" group-title="Lista 02" user-agent="megapro",MX | Space
 https://blackghost.live/play/megapro-725.php?c=116
-#EXTINF:0 tvg-id="Sony.mx" group-title="Lista 02" user-agent="megapro",Sony
+#EXTINF:0 tvg-id="Sony.mx" group-title="Lista 02" user-agent="megapro",MX | Sony
 https://blackghost.live/play/megapro-725.php?c=117
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",RCN Telenovelas
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",CO | RCN Telenovelas
 https://blackghost.live/play/megapro-725.php?c=118
-#EXTINF:0 tvg-id="Pasiones.us" group-title="Lista 02" user-agent="megapro",Pasiones
+#EXTINF:0 tvg-id="Pasiones.us" group-title="Lista 02" user-agent="megapro",MX | Pasiones
 https://blackghost.live/play/megapro-725.php?c=119
-#EXTINF:0 tvg-id="ParamountChannel.mx" group-title="Lista 02" user-agent="megapro",Paramount Channel
+#EXTINF:0 tvg-id="ParamountChannel.mx" group-title="Lista 02" user-agent="megapro",MX | Paramount Channel
 https://blackghost.live/play/megapro-725.php?c=120
-#EXTINF:0 tvg-id="Nickelodeon.mx" group-title="Lista 02" user-agent="megapro",Nickelodeon
+#EXTINF:0 tvg-id="Nickelodeon.mx" group-title="Lista 02" user-agent="megapro",MX | Nickelodeon
 https://blackghost.live/play/megapro-725.php?c=121
-#EXTINF:0 tvg-id="NickJr.mx" group-title="Lista 02" user-agent="megapro",Nick Jr
+#EXTINF:0 tvg-id="NickJr.mx" group-title="Lista 02" user-agent="megapro",MX | Nick Jr
 https://blackghost.live/play/megapro-725.php?c=122
-#EXTINF:0 tvg-id="Nick2.ar" group-title="Lista 02" user-agent="megapro",Nick 2
+#EXTINF:0 tvg-id="Nick2.ar" group-title="Lista 02" user-agent="megapro",MX | Nick 2
 https://blackghost.live/play/megapro-725.php?c=123
-#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Lista 02" user-agent="megapro",Nat Geo Wild
+#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Lista 02" user-agent="megapro",MX | Nat Geo Wild
 https://blackghost.live/play/megapro-725.php?c=124
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Nat Geo Mex
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Nat Geo Mex
 https://blackghost.live/play/megapro-725.php?c=125
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Nat Geo Kids Mex
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Nat Geo Kids Mex
 https://blackghost.live/play/megapro-725.php?c=126
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Nat Geo Kids
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Nat Geo Kids
 https://blackghost.live/play/megapro-725.php?c=127
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Lista 02" user-agent="megapro",National Geographic Channel
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Lista 02" user-agent="megapro",MX | National Geographic Channel
 https://blackghost.live/play/megapro-725.php?c=128
-#EXTINF:0 tvg-id="Multipremier.mx" group-title="Lista 02" user-agent="megapro",Multipremier
+#EXTINF:0 tvg-id="Multipremier.mx" group-title="Lista 02" user-agent="megapro",MX | Multipremier
 https://blackghost.live/play/megapro-725.php?c=129
-#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Lista 02" user-agent="megapro",Mtv Live
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Lista 02" user-agent="megapro",MX | Mtv Live
 https://blackghost.live/play/megapro-725.php?c=130
-#EXTINF:0 tvg-id="Maxup.br" group-title="Lista 02" user-agent="megapro",HBO Pop
+#EXTINF:0 tvg-id="Maxup.br" group-title="Lista 02" user-agent="megapro",MX | HBO Pop
 https://blackghost.live/play/megapro-725.php?c=131
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Lista 02" user-agent="megapro",HBO Xtreme
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Lista 02" user-agent="megapro",MX | HBO Xtreme
 https://blackghost.live/play/megapro-725.php?c=132
-#EXTINF:0 tvg-id="Max.br" group-title="Lista 02" user-agent="megapro",HBO Mundi
+#EXTINF:0 tvg-id="Max.br" group-title="Lista 02" user-agent="megapro",MX | HBO Mundi
 https://blackghost.live/play/megapro-725.php?c=133
 #EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Azteca 7
 https://blackghost.live/play/megapro-725.php?c=134
@@ -411,29 +411,29 @@ https://blackghost.live/play/megapro-725.php?c=217
 https://blackghost.live/play/megapro-725.php?c=219
 #EXTINF:0 tvg-id="WOBITV.mx" group-title="Lista 02" user-agent="megapro",Wobi
 https://blackghost.live/play/megapro-725.php?c=337
-#EXTINF:0 tvg-id="VH1HD.mx" group-title="Lista 02" user-agent="megapro",VH1 HD
+#EXTINF:0 tvg-id="VH1HD.mx" group-title="Lista 02" user-agent="megapro",MX | VH1 HD
 https://blackghost.live/play/megapro-725.php?c=336
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Start TVE
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Start TVE
 https://blackghost.live/play/megapro-725.php?c=335
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",TV Mas
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | TV Mas
 https://blackghost.live/play/megapro-725.php?c=334
 #EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MVS
 https://blackghost.live/play/megapro-725.php?c=333
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Golden Plus
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Golden Plus
 https://blackghost.live/play/megapro-725.php?c=327
-#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Lista 02" user-agent="megapro",Discovery Civilization
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Lista 02" user-agent="megapro",MX | Discovery Civilization
 https://blackghost.live/play/megapro-725.php?c=325
-#EXTINF:0 tvg-id="DePelicula.mx" group-title="Lista 02" user-agent="megapro",De Pelicula
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Lista 02" user-agent="megapro",MX | De Pelicula
 https://blackghost.live/play/megapro-725.php?c=324
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Gol TV Internacional
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Gol TV Internacional
 https://blackghost.live/play/megapro-725.php?c=338
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Tigo Sports 1
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Tigo Sports 1
 https://blackghost.live/play/megapro-725.php?c=339
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Tigo Sports py
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Tigo Sports py
 https://blackghost.live/play/megapro-725.php?c=340
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Tigo Sports 3
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Tigo Sports 3
 https://blackghost.live/play/megapro-725.php?c=341
-#EXTINF:0 tvg-id="EstrellaTV.us" group-title="Lista 02" user-agent="megapro",Estrella tv
+#EXTINF:0 tvg-id="EstrellaTV.us" group-title="Lista 02" user-agent="megapro",MX | Estrella tv
 https://blackghost.live/play/megapro-725.php?c=342
 #EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Bein sports ñ T
 https://blackghost.live/play/megapro-725.php?c=343
@@ -455,19 +455,19 @@ https://blackghost.live/play/megapro-725.php?c=351
 https://blackghost.live/play/megapro-725.php?c=352
 #EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",UFC TV
 https://blackghost.live/play/megapro-725.php?c=353
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Bitme
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Bitme
 https://blackghost.live/play/megapro-725.php?c=354
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Locomotion
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Locomotion
 https://blackghost.live/play/megapro-725.php?c=355
 #EXTINF:0 tvg-id="MLigaCampeones.es" group-title="Lista 02" user-agent="megapro",movistar liga de Campeones
 https://blackghost.live/play/megapro-725.php?c=357
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",nueve mx
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | nueve mx
 https://blackghost.live/play/megapro-725.php?c=356
-#EXTINF:0 tvg-id="ISat.mx" group-title="Lista 02" user-agent="megapro",ISAT
+#EXTINF:0 tvg-id="ISat.mx" group-title="Lista 02" user-agent="megapro",MX | ISAT
 https://blackghost.live/play/megapro-725.php?c=369
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Film&Arts
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Film&Arts
 https://blackghost.live/play/megapro-725.php?c=370
-#EXTINF:0 tvg-id="SyFy.mx" group-title="Lista 02" user-agent="megapro",Syfy
+#EXTINF:0 tvg-id="SyFy.mx" group-title="Lista 02" user-agent="megapro",MX | Syfy
 https://blackghost.live/play/megapro-725.php?c=371
 #EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Ultra Tainment
 https://blackghost.live/play/megapro-725.php?c=373
@@ -483,136 +483,137 @@ https://blackghost.live/play/megapro-725.php?c=377
 https://blackghost.live/play/megapro-725.php?c=378
 #EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | EDUCA canal 4
 https://blackghost.live/play/megapro-725.php?c=379
-#EXTINF:0 tvg-id="OnceTV.mx" group-title="Lista 02" user-agent="megapro",Canal Once
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Lista 02" user-agent="megapro",MX | Canal Once
 https://blackghost.live/play/megapro-725.php?c=380
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Once Niños
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | Once Niños
 https://blackghost.live/play/megapro-725.php?c=381
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",afizzionados
+#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",MX | afizzionados
 https://blackghost.live/play/megapro-725.php?c=382
-#EXTINF:0 tvg-id="FoxSports.mx" group-title="Lista 02" user-agent="megapro",Fox Deportes
+#EXTINF:0 tvg-id="FoxSports.mx" group-title="Lista 02" user-agent="megapro",MX | Fox Deportes
 https://blackghost.live/play/megapro-725.php?c=384
-#EXTINF:0 tvg-id="HGTV.us" group-title="Lista 02" user-agent="megapro",HGTV
+#EXTINF:0 tvg-id="HGTV.us" group-title="Lista 02" user-agent="megapro",MX | HGTV
 https://blackghost.live/play/megapro-725.php?c=385
 #EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Adrenalina
 https://blackghost.live/play/megapro-725.php?c=386
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Lazy Town
+
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Lazy Town
 https://blackghost.live/play/megapro-725.php?c=235
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Barnie y sus amigos
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Barnie y sus amigos
 https://blackghost.live/play/megapro-725.php?c=236
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Dora la exploradora
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dora la exploradora
 https://blackghost.live/play/megapro-725.php?c=237
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",PJ Masks
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",PJ Masks
 https://blackghost.live/play/megapro-725.php?c=238
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",caillou
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",caillou
 https://blackghost.live/play/megapro-725.php?c=239
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Jorge el Curioso
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Jorge el Curioso
 https://blackghost.live/play/megapro-725.php?c=240
-#EXTINF:0 tvg-id="RedlightHD.ero" group-title="Lista 02" user-agent="megapro",peppa pig
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="24/7" user-agent="megapro",peppa pig
 https://blackghost.live/play/megapro-725.php?c=241
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",happy tree friends
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",happy tree friends
 https://blackghost.live/play/megapro-725.php?c=242
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Los picapiedras
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Los picapiedras
 https://blackghost.live/play/megapro-725.php?c=243
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Le temes a la oscuridad
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Le temes a la oscuridad
 https://blackghost.live/play/megapro-725.php?c=244
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Pantera Rosa 80s
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Pantera Rosa 80s
 https://blackghost.live/play/megapro-725.php?c=245
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Correcaminos
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Correcaminos
 https://blackghost.live/play/megapro-725.php?c=246
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Power Rangers
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Power Rangers
 https://blackghost.live/play/megapro-725.php?c=247
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Cuentos Hermanos Grimm
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Cuentos Hermanos Grimm
 https://blackghost.live/play/megapro-725.php?c=248
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Robotech
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Robotech
 https://blackghost.live/play/megapro-725.php?c=249
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Estrenos 2018
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Estrenos 2018
 https://blackghost.live/play/megapro-725.php?c=250
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",El Chapulin Colorado
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",El Chapulin Colorado
 https://blackghost.live/play/megapro-725.php?c=251
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Death Note
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Death Note
 https://blackghost.live/play/megapro-725.php?c=252
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",CSI Miami
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",CSI Miami
 https://blackghost.live/play/megapro-725.php?c=253
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Alf
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Alf
 https://blackghost.live/play/megapro-725.php?c=254
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",X-men 90s
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",X-men 90s
 https://blackghost.live/play/megapro-725.php?c=255
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Vete a la Versh
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Vete a la Versh
 https://blackghost.live/play/megapro-725.php?c=256
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",The Walking Dead
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",The Walking Dead
 https://blackghost.live/play/megapro-725.php?c=257
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Super campeones
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Super campeones
 https://blackghost.live/play/megapro-725.php?c=258
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",strangerthings
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",strangerthings
 https://blackghost.live/play/megapro-725.php?c=259
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Spiderman 80s
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Spiderman 80s
 https://blackghost.live/play/megapro-725.php?c=260
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Sounth Park
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Sounth Park
 https://blackghost.live/play/megapro-725.php?c=261
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Smallville
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Smallville
 https://blackghost.live/play/megapro-725.php?c=262
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Shera
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Shera
 https://blackghost.live/play/megapro-725.php?c=263
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Señor de los cielos
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Señor de los cielos
 https://blackghost.live/play/megapro-725.php?c=264
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Sailormoon
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Sailormoon
 https://blackghost.live/play/megapro-725.php?c=265
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Pokemon
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Pokemon
 https://blackghost.live/play/megapro-725.php?c=266
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Pinky y Cerebro
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Pinky y Cerebro
 https://blackghost.live/play/megapro-725.php?c=267
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Peliculas Terror
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Peliculas Terror
 https://blackghost.live/play/megapro-725.php?c=268
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Pablo Escobar
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Pablo Escobar
 https://blackghost.live/play/megapro-725.php?c=269
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Naruto
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Naruto
 https://blackghost.live/play/megapro-725.php?c=270
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Mazinger Z
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Mazinger Z
 https://blackghost.live/play/megapro-725.php?c=271
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Malcolm el de enmedio
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Malcolm el de enmedio
 https://blackghost.live/play/megapro-725.php?c=272
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Luis Miguel
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Luis Miguel
 https://blackghost.live/play/megapro-725.php?c=273
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Lucha Libre AAA
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Lucha Libre AAA
 https://blackghost.live/play/megapro-725.php?c=274
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Los Thundercats
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Los Thundercats
 https://blackghost.live/play/megapro-725.php?c=275
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Los Simpsons
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Los Simpsons
 https://blackghost.live/play/megapro-725.php?c=276
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",La Rosa de Guadalupe
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",La Rosa de Guadalupe
 https://blackghost.live/play/megapro-725.php?c=277
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Heman
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Heman
 https://blackghost.live/play/megapro-725.php?c=278
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Game Of Throne
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Game Of Throne
 https://blackghost.live/play/megapro-725.php?c=279
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Futurama
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Futurama
 https://blackghost.live/play/megapro-725.php?c=280
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Dragon Ball Z
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dragon Ball Z
 https://blackghost.live/play/megapro-725.php?c=281
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Dragon Ball Super
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dragon Ball Super
 https://blackghost.live/play/megapro-725.php?c=282
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Dragon Ball GT
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dragon Ball GT
 https://blackghost.live/play/megapro-725.php?c=283
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Dragon ball
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dragon ball
 https://blackghost.live/play/megapro-725.php?c=284
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Dinosaurios
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dinosaurios
 https://blackghost.live/play/megapro-725.php?c=285
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Coraje el perro cobarde
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Coraje el perro cobarde
 https://blackghost.live/play/megapro-725.php?c=286
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Años Maravillosos
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Años Maravillosos
 https://blackghost.live/play/megapro-725.php?c=287
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",La casa de papel
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",La casa de papel
 https://blackghost.live/play/megapro-725.php?c=288
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",El chema
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",El chema
 https://blackghost.live/play/megapro-725.php?c=289
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",El chavo
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",El chavo
 https://blackghost.live/play/megapro-725.php?c=290
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",caballerosdel zodiaco
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",caballerosdel zodiaco
 https://blackghost.live/play/megapro-725.php?c=291
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Breaking bad
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Breaking bad
 https://blackghost.live/play/megapro-725.php?c=292
-#EXTINF:0 tvg-id="ext" group-title="Lista 02" user-agent="megapro",Bob Esponja 24/7
-https://blackghost.live/play/megapro-725.php?c=293
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Bob Esponja 24/7
+https://blackghost.live/play/megapro-725.php?c=293" 
 
 #EXTINF:0 tvg-id="avi" group-title="peliculas",Space Jam Una Nueva Era | REGIOFLIX
 http://ipeteve.com/REGIOFLIX180721/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
