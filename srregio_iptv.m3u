@@ -1,0 +1,399 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="KIDS",TECNOTV SMARTV
+http://tecnotv.club/23ju/smartv.php?c=discoverychannel
+#EXTINF:0 tvg-id="ext" group-title="KIDS",23/7/2021
+http://tecnotv.club/23ju/smartv.php?c=discoverychannel
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Telegram: @Tecnotv
+http://tecnotv.club/23ju/smartv.php?c=discoverychannel
+
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Simpson
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Cartoon Network
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=cartoonnetwork
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Discovery Kids
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=discoverykids
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Disney Junior
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=disneyjunior
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Disney XD
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=disneyxd
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Disney Channel
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=disneychannel
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Nick
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=nick
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Nick Toons
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=nicktoons
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Baby First
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=babyfirst
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Tooncast
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=tooncast
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",MX | Boomerang
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=boomerang
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",boing en vivo
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=boing
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",clantv en vivo
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=clantv
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",paka paka en vivo
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=pakapaka
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",kidstv en vivo
+http://tecnotv.club/23ju/smartv.php?c=infantiles&ch=kidstv
+
+#EXTINF:0 tvg-id="WOWTV.us" group-title="ENTRETENIMIENTO",Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="Telefe.ar" group-title="ENTRETENIMIENTO",TELEFE
+http://tecnotv.club/23ju/smartv.php?c=telefe
+#EXTINF:0 tvg-id="ElTrece.mx" group-title="ENTRETENIMIENTO",EL TRECE
+http://tecnotv.club/23ju/smartv.php?c=eltrece
+#EXTINF:0 tvg-id="America2.ar" group-title="ENTRETENIMIENTO",AMERICA TV
+http://tecnotv.club/23ju/smartv.php?c=america2
+#EXTINF:0 tvg-id="TvPublica.ar" group-title="ENTRETENIMIENTO",TV PUBLICA
+http://tecnotv.club/23ju/smartv.php?c=tvpublica
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",TN ARGENTINA
+http://tecnotv.club/23ju/smartv.php?c=tn
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",C5N ARGENTINA
+http://tecnotv.club/23ju/smartv.php?c=c5n
+#EXTINF:0 tvg-id="Canal9.ar" group-title="ENTRETENIMIENTO",EL NUEVE
+http://tecnotv.club/23ju/smartv.php?c=canal9ar
+#EXTINF:0 tvg-id="26TV.ar" group-title="ENTRETENIMIENTO",CANAL 26
+http://tecnotv.club/23ju/smartv.php?c=canal26ar
+#EXTINF:0 tvg-id="CronicaTV.ar" group-title="ENTRETENIMIENTO",CRONICA TV
+http://tecnotv.club/23ju/smartv.php?c=cronicatv
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",CIUDAD MAGAZINE
+http://tecnotv.club/23ju/smartv.php?c=ciudadmagazine
+#EXTINF:0 tvg-id="A24.ar" group-title="ENTRETENIMIENTO",A 24
+http://tecnotv.club/23ju/smartv.php?c=a24
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",TELEVISA DEL BAJIO
+http://tecnotv.club/23ju/smartv.php?c=canalbajio
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MX | Canal 5
+http://tecnotv.club/23ju/smartv.php?c=canal5televisa
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MX | Azteca uno
+http://tecnotv.club/23ju/smartv.php?c=azteca
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="ENTRETENIMIENTO",MX | Azteca 7
+http://tecnotv.club/23ju/smartv.php?c=azteca7
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MX | AZTECA MAS
+http://tecnotv.club/23ju/smartv.php?c=aztecamas
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MX | AZTECA CINEMA
+http://tecnotv.club/23ju/smartv.php?c=aztecacinema
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="ENTRETENIMIENTO",MX | Az mundo
+http://tecnotv.club/23ju/smartv.php?c=aztecamundo
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="ENTRETENIMIENTO",MX | Az corazon
+http://tecnotv.club/23ju/smartv.php?c=aztecacorazon
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MX | Canal de las estrellas
+http://tecnotv.club/23ju/smartv.php?c=canalestrellas
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="ENTRETENIMIENTO",MX | TLNOVELAS
+http://tecnotv.club/23ju/smartv.php?c=telenovelas
+#EXTINF:0 tvg-id="MTVEsp.es" group-title="ENTRETENIMIENTO",MX | MTV
+http://tecnotv.club/23ju/smartv.php?c=mtv
+
+#EXTINF:0 tvg-id="H2.uk" group-title="CULTURA",MX | History 2
+http://tecnotv.club/23ju/smartv.php?c=history2
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="CULTURA",MX | Discovery Channel
+http://tecnotv.club/23ju/smartv.php?c=discoverychannel
+#EXTINF:0 tvg-id="tlc-russia" group-title="CULTURA",MX | TLC
+http://tecnotv.club/23ju/smartv.php?c=tlc
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="CULTURA",MX | Discovery Civilization
+http://tecnotv.club/23ju/smartv.php?c=discoverycivilization
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="CULTURA",MX | Discovery Turbo
+http://tecnotv.club/23ju/smartv.php?c=discoveryturbo
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CULTURA",MX | Discovery Theater
+http://tecnotv.club/23ju/smartv.php?c=discoverytheater
+#EXTINF:0 tvg-id="ext" group-title="CULTURA",MX | Discovery Sciencie
+http://tecnotv.club/23ju/smartv.php?c=discoverysciencie
+#EXTINF:0 tvg-id="DiscoveryID.mx" group-title="CULTURA",MX | Discovery Investigation
+http://tecnotv.club/23ju/smartv.php?c=discoveryinvestigacion
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="CULTURA",MX | Discovery Home and Health
+http://tecnotv.club/23ju/smartv.php?c=discoveryhh
+#EXTINF:0 tvg-id="ext" group-title="CULTURA",MX | Discovery World
+http://tecnotv.club/23ju/smartv.php?c=discoveryworl
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="CULTURA",MX | NatGeo Channel
+http://tecnotv.club/23ju/smartv.php?c=nationalgeo
+#EXTINF:0 tvg-id="ext" group-title="CULTURA",MX | NatGeo Wild
+http://tecnotv.club/23ju/smartv.php?c=nationalwill
+#EXTINF:0 tvg-id="AyE.mx" group-title="CULTURA",MX | A&E
+http://tecnotv.club/23ju/smartv.php?c=ae
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="CULTURA",MX | Animal Planet
+http://tecnotv.club/23ju/smartv.php?c=animalplanet
+
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | Star Channel
+http://tecnotv.club/23ju/smartv.php?c=fox
+#EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="CINE Y SERIES",MX | Star Action
+http://tecnotv.club/23ju/smartv.php?c=foxaction
+#EXTINF:0 tvg-id="FoxPremiumSeries.ar" group-title="CINE Y SERIES",MX | Star Series
+http://tecnotv.club/23ju/smartv.php?c=foxseries
+#EXTINF:0 tvg-id="FoxPremiumFamily.ar" group-title="CINE Y SERIES",MX | Star Family
+http://tecnotv.club/23ju/smartv.php?c=foxfamily
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="CINE Y SERIES",MX | Star Cinema
+http://tecnotv.club/23ju/smartv.php?c=foxcinema
+#EXTINF:0 tvg-id="FoxPremiumComedy.ar" group-title="CINE Y SERIES",MX | Star Comedy
+http://tecnotv.club/23ju/smartv.php?c=foxcomedy
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | Star Classics
+http://tecnotv.club/23ju/smartv.php?c=foxclassics
+#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="CINE Y SERIES",MX | Star Movies
+http://tecnotv.club/23ju/smartv.php?c=foxmovies
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | Star Life
+http://tecnotv.club/23ju/smartv.php?c=foxlife
+#EXTINF:0 tvg-id="HBOLatino.us" group-title="CINE Y SERIES",MX | HBO
+http://tecnotv.club/23ju/smartv.php?c=hbo
+#EXTINF:0 tvg-id="HBO2.mx" group-title="CINE Y SERIES",MX | HBO 2
+http://tecnotv.club/23ju/smartv.php?c=hbo2
+#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="CINE Y SERIES",MX | HBO Plus
+http://tecnotv.club/23ju/smartv.php?c=hboplus
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CINE Y SERIES",MX | HBO Family
+http://tecnotv.club/23ju/smartv.php?c=hbofamily
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="CINE Y SERIES",MX | HBO Signature
+http://tecnotv.club/23ju/smartv.php?c=hbosignature
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CINE Y SERIES",MX | HBO Xreme
+http://tecnotv.club/23ju/smartv.php?c=maxprime
+#EXTINF:0 tvg-id="Max.br" group-title="CINE Y SERIES",MX | HBO Mundi
+http://tecnotv.club/23ju/smartv.php?c=maxlatino
+#EXTINF:0 tvg-id="Maxup.br" group-title="CINE Y SERIES",MX | HBO Pop
+http://tecnotv.club/23ju/smartv.php?c=maxup
+#EXTINF:0 tvg-id="Golden.mx" group-title="CINE Y SERIES",MX | GOLDEN
+http://tecnotv.club/23ju/smartv.php?c=golden
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | GOLDEN Plus
+http://tecnotv.club/23ju/smartv.php?c=goldenplus
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="CINE Y SERIES",MX | GOLDEN Edge
+http://tecnotv.club/23ju/smartv.php?c=goldenedge
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="CINE Y SERIES",MX | Cinemax
+http://tecnotv.club/23ju/smartv.php?c=cinemax
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="CINE Y SERIES",MX | Cinecanal
+http://tecnotv.club/23ju/smartv.php?c=cinecanal
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | TNT
+http://tecnotv.club/23ju/smartv.php?c=tnt
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="CINE Y SERIES",MX | TNT Series
+http://tecnotv.club/23ju/smartv.php?c=tntseries
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | AXN
+http://tecnotv.club/23ju/smartv.php?c=axn
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | AMC
+http://tecnotv.club/23ju/smartv.php?c=amc
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | TCM
+http://tecnotv.club/23ju/smartv.php?c=tcm
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | SyFy
+http://tecnotv.club/23ju/smartv.php?c=syfy
+#EXTINF:0 tvg-id="FXMovie.us" group-title="CINE Y SERIES",MX | FXM
+http://tecnotv.club/23ju/smartv.php?c=fxm
+#EXTINF:0 tvg-id="FX.mx" group-title="CINE Y SERIES",MX | FX
+http://tecnotv.club/23ju/smartv.php?c=fx
+#EXTINF:0 tvg-id="Space.mx" group-title="CINE Y SERIES",MX | Space
+http://tecnotv.club/23ju/smartv.php?c=space
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | Comedy Central
+http://tecnotv.club/23ju/smartv.php?c=comedycentral
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",MX | Paramount
+http://tecnotv.club/23ju/smartv.php?c=paramountchannel
+#EXTINF:0 tvg-id="Sony.mx" group-title="CINE Y SERIES",MX | Sony
+http://tecnotv.club/23ju/smartv.php?c=sony
+#EXTINF:0 tvg-id="TBS.mx" group-title="CINE Y SERIES",MX | TBS
+http://tecnotv.club/23ju/smartv.php?c=tbs
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="CINE Y SERIES",MX | Sudio Universal
+http://tecnotv.club/23ju/smartv.php?c=studiouniversal
+#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="CINE Y SERIES",MX | Universal Channel
+http://tecnotv.club/23ju/smartv.php?c=universalchannel
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="CINE Y SERIES",MX | Warner Channel
+http://tecnotv.club/23ju/smartv.php?c=warner
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="CINE Y SERIES",MX | De Pelicula
+http://tecnotv.club/23ju/smartv.php?c=depelicula
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="CINE Y SERIES",MX | Distrito Comedia
+http://tecnotv.club/23ju/smartv.php?c=distritocomedia
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV SPOTLIGHT
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV SPOTLIGHT 2
+https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV SHOWS
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV SHOWS 2
+https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV COMEDY MOVIES
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV COMEDY MOVIES 2
+https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV ACTION MOVIES
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV ACTION MOVIES 2
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV FAMILY
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES",RAKUTEN TV TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TNT SPORTS
+http://tecnotv.club/23ju/smartv.php?c=tnt-sports
+#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="DEPORTES",FOX SPORTS PREMIUM
+http://tecnotv.club/23ju/smartv.php?c=fox-sports-premium
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TUDN
+http://tecnotv.club/23ju/smartv.php?c=tudn
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",GOLTV Latino en vivo Online
+http://tecnotv.club/23ju/smartv.php?c=goltvlatino
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Bein Sports Latino en vivo Online
+http://tecnotv.club/23ju/smartv.php?c=beinlatino
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",VTV URUGUAY
+http://tecnotv.club/23ju/smartv.php?c=vtv
+#EXTINF:0 tvg-id="CaracolTV.us" group-title="DEPORTES",CARACOL TV
+http://tecnotv.club/23ju/smartv.php?c=caracoltv
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",GOL PERU
+http://tecnotv.club/23ju/smartv.php?c=golperu
+#EXTINF:0 tvg-id="CDFBasico.cl" group-title="DEPORTES",CDF
+http://tecnotv.club/23ju/smartv.php?c=cdfpremium
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS ARGENTINA
+http://tecnotv.club/23ju/smartv.php?c=fox-sports1ar
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 2 ARGENTINA
+http://tecnotv.club/23ju/smartv.php?c=fox-sports2ar
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 3 ARGENTINA
+http://tecnotv.club/23ju/smartv.php?c=fox-sports3ar
+#EXTINF:0 tvg-id="ESPN.ar" group-title="DEPORTES",ESPN ARGENTINA
+http://tecnotv.club/23ju/smartv.php?c=espn1ar
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 2 ARGENTINA
+http://tecnotv.club/23ju/smartv.php?c=espn2ar
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 3 ARGENTINA
+http://tecnotv.club/23ju/smartv.php?c=espn3ar
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS MEXICO
+http://tecnotv.club/23ju/smartv.php?c=fox-sports1mx
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 2 MEXICO
+http://tecnotv.club/23ju/smartv.php?c=fox-sports2mx
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 3 MEXICO
+http://tecnotv.club/23ju/smartv.php?c=fox-sports3mx
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN MEXICO
+http://tecnotv.club/23ju/smartv.php?c=espn1mx
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="DEPORTES",ESPN 2 MEXICO
+http://tecnotv.club/23ju/smartv.php?c=espn2mx
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 3 MEXICO
+http://tecnotv.club/23ju/smartv.php?c=espn3mx
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN + ARGENTINA
+http://tecnotv.club/23ju/smartv.php?c=espn+ar
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORTS
+http://tecnotv.club/23ju/smartv.php?c=directv-sports
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORTS 2
+http://tecnotv.club/23ju/smartv.php?c=directv-sports2
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORTS PLUS
+http://tecnotv.club/23ju/smartv.php?c=directv-sports-plus
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="DEPORTES",TYC SPORTS
+http://tecnotv.club/23ju/smartv.php?c=tyc
+#EXTINF:0 tvg-id="GolfChannel.mx" group-title="DEPORTES",GOLF CHANNEL
+http://tecnotv.club/23ju/smartv.php?c=golflatino
+#EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="DEPORTES",FOX PREMIUM ACTION
+http://tecnotv.club/23ju/smartv.php?c=foxaction
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ADRENALINA SPORTS
+http://tecnotv.club/23ju/smartv.php?c=adrenalinatv
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="DEPORTES",AYM SPORTS
+http://tecnotv.club/23ju/smartv.php?c=aymsports
+#EXTINF:0 tvg-id="UnivisionDeportesNetwork.us" group-title="DEPORTES",UNIVISION DEPORTES
+http://tecnotv.club/23ju/smartv.php?c=univisiondeportes
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",WIN SPORTS
+http://tecnotv.club/23ju/smartv.php?c=winsports
+
+
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Space Jam Una Nueva Era | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Viuda Negra 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Black.Widow.2021.1080P-Dual-Lat-SrRegio.Net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Bebe Jefazo 2 Negocios de familia | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/The.Boss.Baby.Family.Business.2021.%282021%29.1080P-Dual-Lat-SrRegio.NEt.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",La guerra del manana | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/La.Guerra.Del.Ma%C3%B1ana.%282021%29.1080P-Dual-Lat-SrRegio.Net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",La calle del Terror | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",El Rey Leon | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/El%20Rey%20LeonSr.Regio.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Mi vecino Totoro | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Mi%20vecino%20TotoroSr.Regio.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Nadie | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Nadie%20%282021%29.1080P-Dual-Lat-Sr-Regio.Net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",LUCA | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Paternidad | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Fatherhood.%282021%29.1080P-Dual-SrRegio.Net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",El Conjuro 3 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/el%20conjuro%203%201080p-srregio.net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Juega Conmigo | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Juega.Conmigo.%282021%29.1080P-Dual-Lat-srregio.net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Disomnia | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Disomnia.%282021%29.1080P-Dual-Lat-srregio.net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Godzilla vs Kong 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/g0dz1ll4.vs.k0ng.2021.hdrip.720p.latinoSrRegio.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Cara Cortada | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/CaraCortada.SrRegio.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Cruella | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Cruella.SrRegio.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Ruega por nosotros | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Ruega.por.nosotros.SrRegio.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Mortal Kombat 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Forrest Gump | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/ForestGump.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Sangre por sangre | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Sangre.por.Sangre.SrRegio.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Amigos Inseparables | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/AmInSRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",12 Horas para sobrevivir: La Primera Purga | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/12HorasPSobrevivirLaPrimeraPurgaSRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Tom & Jerry 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Venganza Implacable | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Honest.thief.2020.1080srregio.net.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Los Nuevos Mutantes | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",SOUL | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Toys Of Terror | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Toys.of.terror.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Wonder Woman 1984 (2020) | REGIOFLIX
+http://ipeteve.com/REGIOFLIX180721/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 tvg-id="ext" group-title="peliculas",El Practicante | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+#EXTINF:0 tvg-id="ext" group-title="peliculas",Ajuste de Cuentas | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
+#EXTINF:0 tvg-id="ext" group-title="peliculas",Trolls 2 | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
+#EXTINF:0 tvg-id="ext" group-title="peliculas",El Hoyo | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
+#EXTINF:0 tvg-id="ext" group-title="peliculas",Cindy La Regia | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
+#EXTINF:0 tvg-id="ext" group-title="peliculas",Parasitos | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:0 tvg-id="ext" group-title="peliculas",Verdad o Reto | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",El Dilema de las Redes Sociales | REGIOFLIX
+http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",El Infierno | REGIOFLIX
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Volver al Futuro | REGIOFLIX
+https://archive.org/download/qwerty_202001/qwerty.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Volver al Futuro 2 | REGIOFLIX
+https://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Volver al Futuro 3 | REGIOFLIX
+https://archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Your Name | REGIOFLIX
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Jhonny English 3.0 | REGIOFLIX
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Volver al Futuro | REGIOFLIX
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",La Bruja en la Ventana SUBTITULADO | REGIOFLIX
+https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Eso (It) 1990 | REGIOFLIX
+https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Next Gen | SRREGIO.NET
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Tragedy Girls | SRREGIO.NET
+https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",La Fuerza De La Ilusion | REGIOFLIX
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Cuando nos Conocimos | REGIOFLIX
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",La Forma del Agua SUBTITULADO | REGIOFLIX
+https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Nosotros Los Nobles | REGIOFLIX
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",The Cloverfield Paradox | REGIOFLIX
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Terminus | REGIOFLIX
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Deadpool | REGIOFLIX
+https://archive.org/download/DeSRREGIO/DeSRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Intensamente | REGIOFLIX
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",JIGSAW VIII | REGIOFLIX
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",Redada Asesina | REGIOFLIX
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:0 tvg-id="avi" group-title="peliculas",SAW VIII SUBTITULADO | REGIOFLIX
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
